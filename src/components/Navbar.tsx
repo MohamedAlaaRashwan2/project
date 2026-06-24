@@ -63,7 +63,7 @@ export default function Navbar() {
               >
                 <div className="w-9 h-9 rounded-xl flex items-center justify-center"
                   style={{ background: 'linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%)' }}>
-                 < img src="/logome.png" alt="logome2.png" className="w-9 h-9 object-cover" />
+                 < img src="/Logome2.png" alt="Logome2.png" className="w-9 h-9 object-cover" />
                 </div>
                 <span className="hidden sm:block font-display font-semibold text-white text-sm tracking-tight">
                   <span className="text-gradient-blue"> Rashwan</span>
