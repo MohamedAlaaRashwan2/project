@@ -4,7 +4,6 @@ import { ArrowDown, Github, Linkedin, Mail, ArrowRight, Instagram } from 'lucide
 
 function ParticleCanvas() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;

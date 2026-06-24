@@ -70,7 +70,7 @@ export default function Footer() {
         <div className="mt-8 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2"
           style={{ borderTop: '1px solid rgba(255,255,255,0.05)' }}>
           <p className="text-sm flex items-center gap-1.5" style={{ color: 'rgba(100,116,139,0.7)' }}>
-            Built with <Heart size={13} className="fill-red-500 text-red-500" /> by Mohamed Alaa
+            Built with by Mohamed Rashwan
           </p>
           <p className="text-xs" style={{ color: 'rgba(100,116,139,0.5)' }}>
             {new Date().getFullYear()} All rights reserved.
