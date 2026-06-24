@@ -105,7 +105,7 @@ export default function Hero() {
 
       <ParticleCanvas />
 
-      <div className="container-custom relative z-10">
+      <div className="container-custom mt-20 relative z-10">
         <div className="max-w-5xl mx-auto text-center">
 
           {/* Availability badge */}
